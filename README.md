@@ -59,8 +59,9 @@ The following business questions were answered using SQL:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboardpizza.png)
-![Dashboard](dashboardpizza2.png)
+![Dashboard 1](Images/dashboardpizza.png)
+
+![Dashboard 2](Images/dashboardpizza2.png)
 
 ## 🚀 Business Impact
 
